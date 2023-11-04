@@ -1,0 +1,6 @@
+[
+  {
+    "token": "FLOW_CONTROL",
+    "regex": "(if|while|else)"
+  }
+]
